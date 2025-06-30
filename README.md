@@ -3,7 +3,7 @@ Face Recognition Attendance System A smart attendance system using face recognit
 # Face Recognition Attendance System
 
 This is a Python-based Face Recognition Attendance System with a graphical user interface (GUI) built using Tkinter.  
-It allows you to manage student details, mark attendance using face recognition, and view attendance reports.
+It allows you to manage student details, mark attendance using face recognition, and view attendance reports. 
 
 ## Features
 
